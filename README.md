@@ -8,7 +8,7 @@
 
 
 💡 About Me
-  🎓 I'm pursuing a Bachelor’s degree in Information Technology
+  🎓 I'm pursuing a Bachelor’s degree in Information Technology </br>
   👨‍💻 I love coding websites and simple applications
   🧠 Learning: Flask, Git, PHP, MySQL
   ⚡ Fun fact: I enjoy learning new tech by building real-world projects
