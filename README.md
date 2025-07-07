@@ -112,9 +112,23 @@ Professional developer portfolio featuring:
 
 [🔗 View Project](https://github.com/hassankhan-34/Portfolio)
 
+### 7. Todo List App (JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+A responsive todo list application featuring:
+- Add, edit, and delete tasks
+- Local storage persistence
+- Clean modern UI with animations
+- Mobile-friendly design
+
+[🔗 View Project](https://github.com/hassankhan-34/To-do-app)
+
 ---
 
 ---
+
 
 ## 📊 GitHub Stats
 
