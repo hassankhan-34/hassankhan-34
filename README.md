@@ -1,16 +1,17 @@
 # 👋 Hello, I'm Hassan Khan
 
-**🎓 BSIT Student | 💻 Front End Developer | 🚀 Tech Enthusiast**
+**🎓 5th Semester BSIT Student | 💻 Front End Developer | 🔒 Cybersecurity Learner | 🚀 Tech Enthusiast**
 
-A passionate 4th-year Information Technology student specializing in web development, with hands-on experience building responsive applications using modern technologies. Currently seeking internship opportunities to further enhance my skills and contribute to meaningful projects.
+A passionate 5th-year Information Technology student specializing in web development and cybersecurity, with hands-on experience building responsive applications using modern technologies. Currently expanding my expertise in cybersecurity while seeking internship opportunities to apply my skills in real-world projects.
 
 ---
 
 ## 🧑‍💻 Professional Profile
 
 - 🔭 **Currently Working On:** Web applications using PHP, Bootstrap, and MySQL
-- 👯 **Looking to Collaborate On:** Open-source web projects
-- 💬 **Ask Me About:** Web development, Python programming, or database design
+- 🌱 **Currently Learning:** Cybersecurity fundamentals and ethical hacking
+- 👯 **Looking to Collaborate On:** Open-source web projects and security tools
+- 💬 **Ask Me About:** Web development, Python programming, database design, or cybersecurity basics
 - 📫 **How to Reach Me:** [hk9767208@gmail.com](mailto:hk9767208@gmail.com)
 - ⚡ **Fun Fact:** I automate daily tasks just for the fun of it!
 
@@ -30,10 +31,16 @@ A passionate 4th-year Information Technology student specializing in web develop
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Cybersecurity
+![Network Security](https://img.shields.io/badge/Network_Security-4B275F?style=for-the-badge&logo=shield-check&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF6B6B?style=for-the-badge&logo=bug&logoColor=white) 
+![Information Security](https://img.shields.io/badge/Information_Security-2E8B57?style=for-the-badge&logo=lock&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -127,8 +134,16 @@ A responsive todo list application featuring:
 
 ---
 
----
+## 📚 Currently Learning - Cybersecurity
 
+As a 5th semester BSIT student, I'm currently diving into:
+- **Network Security Fundamentals**
+- **Ethical Hacking Principles**
+- **Information Security Management**
+- **Cyber Threat Analysis**
+- **Security Tools & Techniques**
+
+---
 
 ## 📊 GitHub Stats
 
@@ -159,3 +174,7 @@ A responsive todo list application featuring:
 [![Public Repos](https://img.shields.io/github/repo-count/hassankhan-34?color=blue&label=Public%20Repos&style=flat-square)](https://github.com/hassankhan-34?tab=repositories)
 
 </div>
+
+---
+
+*🌟 Always learning, always building. Open to collaborations and new opportunities!*
