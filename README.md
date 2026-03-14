@@ -1,14 +1,12 @@
 # 👋 Hello, I'm Hassan Khan
 
-**🎓 5th Semester BSIT Student | 💻 Front End Developer | 🔒 Cybersecurity Learner | 🚀 Tech Enthusiast**
+**🎓 6th Semester BSIT Student | 🔒 Cybersecurity Enthusiast | 🚀 Tech Enthusiast**
 
-A passionate 5th-year Information Technology student specializing in web development and cybersecurity, with hands-on experience building responsive applications using modern technologies. Currently expanding my expertise in cybersecurity while seeking internship opportunities to apply my skills in real-world projects.
-
+A passionate 6th-semester Information Technology student currently pursuing **CEH (Certified Ethical Hacker)** certification. My focus is on building a strong foundation in cybersecurity, with hands-on experience in security concepts and web technologies. I'm actively working toward my goal of becoming a **SOC Analyst**, eager to apply my skills in real-world security operations and threat detection environments.
 ---
 
 ## 🧑‍💻 Professional Profile
 
-- 🔭 **Currently Working On:** Web applications using PHP, Bootstrap, and MySQL
 - 🌱 **Currently Learning:** Cybersecurity fundamentals and ethical hacking
 - 👯 **Looking to Collaborate On:** Open-source web projects and security tools
 - 💬 **Ask Me About:** Web development, Python programming, database design, or cybersecurity basics
@@ -31,119 +29,56 @@ A passionate 5th-year Information Technology student specializing in web develop
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Cybersecurity
-![Network Security](https://img.shields.io/badge/Network_Security-4B275F?style=for-the-badge&logo=shield-check&logoColor=white)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FF6B6B?style=for-the-badge&logo=bug&logoColor=white) 
-![Information Security](https://img.shields.io/badge/Information_Security-2E8B57?style=for-the-badge&logo=lock&logoColor=white)
-
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
-## 🏆 Featured Projects
+## 🏛️ University Projects
 
-### 1. Hospital Prescription System (MySQL)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database_Design-336791?style=flat-square)
+### Database Systems
+- [Hospital Prescription System (MySQL)](https://github.com/hassankhan-34/Hospital-Prescription-MySQL-)
 
-A comprehensive hospital management system featuring:
-- Patient records and prescription tracking
-- Doctor and medication databases
-- Normalized database schema
-- Complex query implementation
+### Artificial Intelligence
+- [Heart Disease Prediction (AI/ML)](https://github.com/hassankhan-34/Heart-Prediction-AI)
 
-[🔗 View Project](https://github.com/hassankhan-34/Hospital-Prescription-MySQL-)
+### Programming Fundamentals
+- [Library Management System (Python)](https://github.com/hassankhan-34/LMS-in-Python)
+- [Statistics Calculator (Python)](https://github.com/hassankhan-34/Stats-Calculator-In-Python)
+- [Library Management System (C++)](https://github.com/hassankhan-34/LMS-C-)
 
-### 2. Heart Disease Prediction (AI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-Machine learning model that predicts heart disease risk with:
-- Scikit-learn implementation
-- Pandas for data processing
-- Matplotlib visualizations
-- 85%+ accuracy rate
-
-[🔗 View Project](https://github.com/hassankhan-34/Heart-Prediction-AI)
-
-### 3. Library Management System (Python)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=flat-square)
-
-Console-based library system featuring:
-- Book inventory management
-- Member registration
-- Loan tracking system
-- Object-oriented design
-
-[🔗 View Project](https://github.com/hassankhan-34/LMS-in-Python)
-
-### 4. Statistics Calculator (Python)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-2F4F4F?style=flat-square)
-
-Statistical computing tool with:
-- Descriptive statistics calculations
-- Data visualization capabilities
-- NumPy and Matplotlib integration
-- User-friendly interface
-
-[🔗 View Project](https://github.com/hassankhan-34/Stats-Calculator-In-Python)
-
-### 5. Library Management System (C++)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![File Handling](https://img.shields.io/badge/File_Handling-659AD2?style=flat-square)
-
-Console application demonstrating:
-- C++ file operations
-- Data persistence
-- Menu-driven interface
-- Basic CRUD operations
-
-[🔗 View Project](https://github.com/hassankhan-34/LMS-C-)
-
-### 6. Portfolio Website
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Professional developer portfolio featuring:
-- Responsive design
-- Project showcase
-- Skills visualization
-- Contact integration
-
-[🔗 View Project](https://github.com/hassankhan-34/Portfolio)
-
-### 7. Todo List App (JavaScript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-A responsive todo list application featuring:
-- Add, edit, and delete tasks
-- Local storage persistence
-- Clean modern UI with animations
-- Mobile-friendly design
-
-[🔗 View Project](https://github.com/hassankhan-34/To-do-app)
-
----
+### Web Development
+- [Portfolio Website](https://github.com/hassankhan-34/Portfolio)
+- [Todo List App (JavaScript)](https://github.com/hassankhan-34/To-do-app)---
 
 ## 📚 Currently Learning - Cybersecurity
 
-As a 5th semester BSIT student, I'm currently diving into:
-- **Network Security Fundamentals**
-- **Ethical Hacking Principles**
-- **Information Security Management**
-- **Cyber Threat Analysis**
-- **Security Tools & Techniques**
+![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF6B6B?style=for-the-badge&logo=bug&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-4B275F?style=for-the-badge&logo=shield-check&logoColor=white)
+![Information Security](https://img.shields.io/badge/Information_Security-2E8B57?style=for-the-badge&logo=lock&logoColor=white)
+![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-0078D4?style=for-the-badge&logo=security&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-FFA500?style=for-the-badge&logo=alert&logoColor=white)
 
----
+### 🎯 Current Focus
+As a **6th semester BSIT student** pursuing **CEH certification**, I'm building expertise in:
+
+#### 🔐 Core Cybersecurity Areas
+- **Network Security Fundamentals** - Firewalls, IDS/IPS, VPNs
+- **Ethical Hacking** - Penetration testing, vulnerability assessment  
+- **Information Security Management** - Risk assessment, security policies
+- **Threat Detection & Analysis** - SIEM tools, log analysis
+- **Incident Response** - Security operations, threat hunting
+
+#### 🛠️ Tools & Technologies
+- Wireshark, Nmap, Metasploit
+- Security Information and Event Management (SIEM)
+- Vulnerability scanners
+- Network protocol analysis
+
+#### 🎯 Career Goal
+Actively working toward becoming a **SOC Analyst** - ready to defend organizations against cyber threats through proactive monitoring, rapid incident response, and continuous security improvement.
 
 ## 📊 GitHub Stats
 
