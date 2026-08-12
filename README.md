@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hassan Khan
+#  Hi, I'm Hassan Khan
 
 ### BS Information Technology Student | Network & System Administration | NOC | Linux | Windows Server | Cybersecurity
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a motivated and detail-oriented **BS Information Technology student** with hands-on experience in **network administration, NOC monitoring, Linux and Windows server administration, network troubleshooting, and cybersecurity fundamentals**.
 
@@ -20,9 +20,9 @@ I enjoy learning by building practical projects and documenting my work so that 
 
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
-### 🌐 Networking
+### Networking
 
 * TCP/IP
 * OSI Model
@@ -41,7 +41,7 @@ I enjoy learning by building practical projects and documenting my work so that 
 * Network Troubleshooting
 * Network Connectivity Testing
 
-### 🖥️ System Administration
+### System Administration
 
 * Linux Server Administration
 * CentOS
@@ -57,7 +57,7 @@ I enjoy learning by building practical projects and documenting my work so that 
 * Firewall Configuration
 * SELinux Fundamentals
 
-### 📊 NOC & Monitoring
+### NOC & Monitoring
 
 * Zabbix
 * Network Monitoring
@@ -69,7 +69,7 @@ I enjoy learning by building practical projects and documenting my work so that 
 * Network Outage Troubleshooting
 * Incident Documentation
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 
 * EVE-NG
 * VMware Workstation
@@ -83,7 +83,7 @@ I enjoy learning by building practical projects and documenting my work so that 
 * Git
 * GitHub
 
-### 💻 Programming & Development
+### Programming & Development
 
 * C++
 * Python
@@ -92,7 +92,7 @@ I enjoy learning by building practical projects and documenting my work so that 
 * CSS
 * JavaScript
 
-### 🐧 Linux CLI
+### Linux CLI
 
 * `ping`
 * `traceroute`
@@ -107,7 +107,7 @@ I enjoy learning by building practical projects and documenting my work so that 
 
 ---
 
-# ⭐ Featured Focus: Networking & System Administration
+# Featured Focus: Networking & System Administration
 
 My main GitHub portfolio focus is **Network and System Administration**.
 
@@ -135,7 +135,7 @@ Networking-Projects/
 
 ---
 
-# 🌐 Networking & NOC Projects
+# Networking & NOC Projects
 
 ## 01. 🏠 Home Network to ISP Simulation
 
